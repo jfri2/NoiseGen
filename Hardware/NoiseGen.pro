@@ -1,4 +1,4 @@
-update=8/2/2017 10:49:59 PM
+update=8/14/2017 8:34:57 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,13 @@ LibName28=contrib
 LibName29=valves
 LibName30=C:/Users/jfrit/Documents/GitHub/Kicad_Lib/FritzLib
 LibName31=C:/Users/jfrit/Documents/GitHub/Kicad_Lib/FritzLib2
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=PDFs/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
